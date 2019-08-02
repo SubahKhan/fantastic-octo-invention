@@ -4,7 +4,7 @@
 
 Learning Github Readme File importance and need for learning basics of Markdown 
 
-### Lists
+### List
 
 * 1
 * 2
